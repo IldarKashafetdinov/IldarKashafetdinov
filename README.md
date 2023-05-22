@@ -4,8 +4,6 @@
 
 
 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 📫 How to reach me: ildar.kashafetdinov@gmail.com
 
 ✍️ https://t.me/ikash_00
