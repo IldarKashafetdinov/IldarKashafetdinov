@@ -3,7 +3,6 @@
 <p align="center">I am Ildar Kashafetdinov.</p>
 <p align="center">Studing frontend and backend dev.</p>
 <p align="center">Open to collaborating on interesting projects.</p>
-<img align="center">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 # Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
