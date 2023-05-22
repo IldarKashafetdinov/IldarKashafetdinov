@@ -3,7 +3,7 @@
 <p align="center">I am Ildar Kashafetdinov.</p>
 <p align="center">Studing frontend and backend dev.</p>
 <p align="center">Open to collaborating on interesting projects.</p>
-<div align="center">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</div>
+<div align="center">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</div>
 
 
 
