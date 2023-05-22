@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Ildar Kashafetdinov
+<h1 align="center">Hi, I'm Ildar<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 📫 How to reach me: ildar.kashafetdinov@gmail.com
