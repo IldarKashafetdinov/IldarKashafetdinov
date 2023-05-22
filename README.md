@@ -4,7 +4,7 @@
 <p align="center">Studing frontend and backend dev.</p>
 <p align="center">Open to collaborating on interesting projects.</p>
 
-<div align="center">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</div>
+<p align="center">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</p>
 
 
 
