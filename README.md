@@ -4,7 +4,8 @@
 <p align="center">Studing frontend and backend dev.</p>
 <p align="center">Open to collaborating on interesting projects.</p>
 
-##Languages
+
+###Languages
 
 
 
