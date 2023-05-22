@@ -2,9 +2,9 @@
 <h4 align="center">Welcome to my page.</h4>
 <p align="center">I am Ildar Kashafetdinov.</p>
 <p align="center">Studing frontend and backend dev.</p>
-<p align="center">Open to collaborating on interesting projects.</p>
+<p align="center">Open to collaborating on interesting projects. ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</p>
 
-<p align="center">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)/p>
+
 
 
 
