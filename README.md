@@ -4,23 +4,11 @@
 <p align="center">Studing frontend and backend dev.</p>
 <p align="center">Open to collaborating on interesting projects.</p>
 
-# Open to collaborating on interesting projects.
-![Telegram](<a> href="https://t.me/ikash_00"https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white</a>)
-
-
-
-
-
 # Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
-
 
 📫 How to reach me: ildar.kashafetdinov@gmail.com
 
